@@ -64,11 +64,3 @@
 
 ### 6.1. Reporte de Cobertura (Jest)
 ![Reporte de Cobertura](Resultados.png)
-
-### 6.2. Quality Gate (SonarCloud)
-> **Instrucción:** Reemplaza este texto con tu captura del dashboard en verde.
-![Dashboard SonarCloud](captura_sonar.png)
-
-### 6.3. Insignias de Estado (Badges en README)
-> **Instrucción:** Reemplaza este texto con tu captura de los badges del repositorio.
-![Badges GitHub](captura_badges.png)
